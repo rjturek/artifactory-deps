@@ -1,0 +1,312 @@
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.5.1-rc1
+   Consumer Groups:
+      com.trp.apx.apex-ui
+      com.trp.ctt.app
+      com.trp.ecl.contentcatalog
+      com.trp.fb2.app
+      com.trp.fbk.app
+      com.trp.ipl.iris-portal
+      com.trp.jvl.service-support
+      com.trp.omr.middleware
+      com.trp.omr.odm-rules
+      com.trp.omr.spoe-ui
+      com.trp.pcs.searchfeed
+      com.trp.pcs.services
+      com.trp.rfi.odm-client
+      com.trp.rfi.odm-reference-implementation
+      com.trp.tpi.fiadmin-app
+      com.trp.tpr.auth
+      com.trp.tpr.dm
+      com.trp.uak.wem-applibs
+      com.trp.vrt.wem-applibs
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.7.0-rc3
+   Consumer Groups:
+      com.trp.aar.managed-account
+      com.trp.aar.services
+      com.trp.bep.services
+      com.trp.crm.account
+      com.trp.crm.contact
+      com.trp.ebs.bulkmessenger
+      com.trp.ebs.businessidentifier
+      com.trp.ebs.core
+      com.trp.ebs.databaseprop
+      com.trp.ebs.eam
+      com.trp.ebs.testharness
+      com.trp.ees.services
+      com.trp.fs1.services
+      com.trp.gli.services
+      com.trp.ias.services
+      com.trp.ifr.webservice
+      com.trp.jvl.iiwc
+      com.trp.jvl.service-support
+      com.trp.pcs.services
+      com.trp.rem.remservices
+      com.trp.rip.services
+      com.trp.sfe.app
+      com.trp.ubr.services
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.8.0-rc2
+   Consumer Groups:
+      com.trp.aar.managed-account
+      com.trp.aar.services
+      com.trp.bep.services
+      com.trp.cai.app
+      com.trp.cis.app
+      com.trp.ees.services
+      com.trp.ewf.services
+      com.trp.gli.commonlogin
+      com.trp.gli.services
+      com.trp.ias.services
+      com.trp.irt.message-service
+      com.trp.jvl.cache
+      com.trp.jvl.code-generation
+      com.trp.jvl.service-support
+      com.trp.pcs.services
+      com.trp.rem.remservices
+      com.trp.rip.services
+      com.trp.ubr.services
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.1.0-rc2
+   Consumer Groups:
+      com.trp.aar.aar1p
+      com.trp.ewf.batch-processes
+      com.trp.ewf.services
+      com.trp.jvl.code-generation
+      com.trp.nex.services
+      com.trp.nex.webui
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.2.0-rc6
+   Consumer Groups:
+      com.trp.ewf.services
+      com.trp.ewf.webui-retail
+      com.trp.jvl.code-generation
+      com.trp.jvl.service-support
+      com.trp.na1.mfnasu-rollovertransfer
+      com.trp.na1.mfnasu-streamline
+      com.trp.na2.brokerage-nasu
+      com.trp.na3.529nasu
+      com.trp.na4.rps-ocr
+      com.trp.na4.trac-ocr
+      com.trp.omr.middleware
+      com.trp.omr.spoe-ui
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.4.0-rc14
+   Consumer Groups:
+      com.trp.gli.services
+      com.trp.omr.middleware
+      com.trp.omr.spoe-ui
+      com.trp.pcs.services
+      com.trp.rbt.enrollment-kit
+      com.trp.rbt.portfolio-update
+      com.trp.rca.communication
+      com.trp.rws.participant
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.10.0-rc1
+   Consumer Groups:
+      com.trp.aar.services
+      com.trp.crm.account
+      com.trp.crm.contact
+      com.trp.jvl.service-support
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.0.0-rc9
+   Consumer Groups:
+      com.trp.agc.app
+      com.trp.cai.app
+      com.trp.cov.app
+      com.trp.dol.batch
+      com.trp.efi.app
+      com.trp.ewf.services
+      com.trp.ffs.application
+      com.trp.gla.app
+      com.trp.idl.app
+      com.trp.ilr.app
+      com.trp.ivs.services
+      com.trp.jvl.document-management
+      com.trp.mas.app
+      com.trp.mbl.app
+      com.trp.pat.app
+      com.trp.ppg.batch
+      com.trp.prd.app
+      com.trp.prs.application
+      com.trp.qst.app
+      com.trp.rbt.cxsod-report
+      com.trp.rmc.services
+      com.trp.stq.app
+      com.trp.wch.batchprocess
+      com.trp.wch.transfergauge
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.10.0-SNAPSHOT
+   Consumer Groups:
+      com.trp.jvl.code-generation
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.6.0-rc1
+   Consumer Groups:
+      com.trp.aad.services
+      com.trp.bdx.app
+      com.trp.bdx.batch
+      com.trp.caf.app
+      com.trp.fcm.batchjobs
+      com.trp.gli.services
+      com.trp.ias.services
+      com.trp.ifr.webservice
+      com.trp.igi.authentication
+      com.trp.igi.registration
+      com.trp.irt.outputreprint
+      com.trp.irt.retail-tools
+      com.trp.jvl.service-support
+      com.trp.pcs.services
+      com.trp.rem.remservices
+      com.trp.rws.participant
+      com.trp.stb.app
+      com.trp.tpi.fiadmin-app
+      com.trp.uak.wem-applibs
+      com.trp.ubr.services
+      com.trp.vc1.preview-app
+      com.trp.vc2.live-app
+      com.trp.vc6.preview-app
+      com.trp.vc7.live-app
+      com.trp.vrt.wem-applibs
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.5.0-rc11
+   Consumer Groups:
+      com.trp.awd.services
+      com.trp.ecl.contentcatalog
+      com.trp.ees.services
+      com.trp.ewf.batch-processes
+      com.trp.ewf.services
+      com.trp.ewf.webui-retail
+      com.trp.ewf.webui-rps
+      com.trp.ias.services
+      com.trp.ilr.app
+      com.trp.isp.services
+      com.trp.ivs.services
+      com.trp.ixd.rigel
+      com.trp.ixi.app
+      com.trp.ixi.dpc
+      com.trp.ixi.dpi
+      com.trp.mbl.app
+      com.trp.omr.middleware
+      com.trp.omr.spoe-ui
+      com.trp.prd.webservices
+      com.trp.rfi.services
+      com.trp.rmc.services
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.9.1-rc1
+   Consumer Groups:
+      com.trp.aar.services
+      com.trp.bep.services
+      com.trp.ebs.bulkmessenger
+      com.trp.ebs.businessidentifier
+      com.trp.ebs.core
+      com.trp.ebs.databaseprop
+      com.trp.ebs.eam
+      com.trp.ees.services
+      com.trp.fts.common-utilities
+      com.trp.gli.services
+      com.trp.ias.services
+      com.trp.irt.message-service
+      com.trp.rem.remservices
+      com.trp.rfi.odm-client
+      com.trp.rfi.odm-reference-implementation
+      com.trp.rip.services
+      com.trp.tac.application-ear
+      com.trp.ubr.services
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.0.1-rc1
+   Consumer Groups:
+      com.trp.jvl.code-generation
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.5.2-rc2
+   Consumer Groups:
+      com.trp.aaa.application
+      com.trp.aaa.batch-processes
+      com.trp.aaa.services
+      com.trp.apx.apex-ui
+      com.trp.irt.retail-tools
+      com.trp.ixp.prt
+      com.trp.ixr.apollo
+      com.trp.jvl.code-generation
+      com.trp.jvl.service-support
+      com.trp.omr.batch
+      com.trp.omr.middleware
+      com.trp.omr.odm-rules
+      com.trp.omr.spoe-ui
+      com.trp.pcs.searchfeed
+      com.trp.pcs.services
+      com.trp.prd.webservices
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.3.0-rc7
+   Consumer Groups:
+      com.trp.ato.app
+      com.trp.cmr.fs-batch
+      com.trp.gdc.services
+      com.trp.gwm.app
+      com.trp.jvl.code-generation
+      com.trp.jvl.service-support
+      com.trp.omr.middleware
+      com.trp.osa.osa-services
+      com.trp.rmc.services
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.10.0-rc2
+   Consumer Groups:
+      com.trp.aar.services
+      com.trp.jvl.code-generation
+      com.trp.jvl.service-support
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.9.0-rc3
+   Consumer Groups:
+      com.trp.aar.managed-account
+      com.trp.aar.services
+      com.trp.cai.app
+      com.trp.crm.account
+      com.trp.crm.contact
+      com.trp.irt.message-service
+      com.trp.jvl.cache
+      com.trp.jvl.code-generation
+      com.trp.jvl.legacy
+      com.trp.jvl.service-support
+      com.trp.pre.batch
+      com.trp.rip.services
+
+
+   Consumed G:A:V
+      com.trp.jvl.core:JVL_Core:3.7.999-SNAPSHOT
+   Consumer Groups:
+      com.trp.aar.services
+      com.trp.rip.services
+
+
